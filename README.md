@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
