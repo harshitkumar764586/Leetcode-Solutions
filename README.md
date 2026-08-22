@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -41,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
