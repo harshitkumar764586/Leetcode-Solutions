@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
