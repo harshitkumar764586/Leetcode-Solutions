@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0258-add-digits](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0055-jump-game) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
