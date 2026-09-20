@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -113,5 +114,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
