@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1929-concatenation-of-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Greedy
 |  |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
