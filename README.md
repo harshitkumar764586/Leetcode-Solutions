@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1929-concatenation-of-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
