@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
