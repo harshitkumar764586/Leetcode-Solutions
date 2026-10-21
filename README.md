@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
