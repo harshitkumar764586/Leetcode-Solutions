@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
