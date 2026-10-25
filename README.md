@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [1254-number-of-closed-islands](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitkumar764586/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
